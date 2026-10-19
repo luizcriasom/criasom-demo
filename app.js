@@ -1,6 +1,6 @@
-import {createStore, STORAGE_KEY, makeId, planSession, rescheduleSession, deleteSession, startPractice, updatePractice, completePractice, resumePractice, sessionTiming, startStudyClock, setStudyClockMinutes, totalPracticeSeconds, STUDY_AREAS, STUDY_LABELS, safeMusicLink, saveRepertoireSong, removeRepertoireSong, labelRepertoireSong, planPersonalSession, patchStudyTask, checkStudyTask, taskIsChecked, moveStudyTask, validateState, markIntroduction, freshStudy, restoreStudy, saveStudyProfile, studySuggestions} from './model.js?v=33897d355352';
+import {createStore, STORAGE_KEY, makeId, planSession, rescheduleSession, deleteSession, startPractice, updatePractice, completePractice, resumePractice, sessionTiming, startStudyClock, setStudyClockMinutes, totalPracticeSeconds, STUDY_AREAS, STUDY_LABELS, safeMusicLink, saveRepertoireSong, removeRepertoireSong, labelRepertoireSong, planPersonalSession, patchStudyTask, checkStudyTask, taskIsChecked, moveStudyTask, validateState, markIntroduction, freshStudy, restoreStudy, saveStudyProfile, studySuggestions} from './model.js?v=b606c920f25f';
 
-const data = window.CRIASOM_DATA || await fetch('data.json?v=33897d355352').then(r=>{if(!r.ok)throw Error('Conteúdo indisponível');return r.json()});
+const data = window.CRIASOM_DATA || await fetch('data.json?v=b606c920f25f').then(r=>{if(!r.ok)throw Error('Conteúdo indisponível');return r.json()});
 const account=window.CRIASOM_ACCOUNT||null;
 const store=account?.store||createStore();
 let state, persisted=true, route='hoje', moduleId='dap:modulo:03', minutes=10, runId=null, weekOffset=0, tool=null, bpm=60;
