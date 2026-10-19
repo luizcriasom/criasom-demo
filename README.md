@@ -6,4 +6,4 @@ Abra https://luizcriasom.github.io/criasom-demo/ para experimentar. Não é nece
 
 Use **Dar feedback** para preparar uma mensagem e colá-la no grupo de testes. Esse botão não envia dados automaticamente.
 
-Versão da interface: 27f66feb173c. Arquivos gerados a partir da versão principal do Criasom; não editar esta distribuição para desenvolver o app. A atualização da demo exige uma nova geração e envio; não é sincronização automática.
+Versão da interface: 33897d355352. Arquivos gerados a partir da versão principal do Criasom; não editar esta distribuição para desenvolver o app. A atualização automática é gerada pela main privada após verificações. Revisão de origem: 1efd62a5019190a97d5686eeb5bdae8c5d0859bc. Se a verificação ou publicação falhar, a última versão válida permanece no ar.
