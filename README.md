@@ -1,9 +1,9 @@
-# Criasom — demonstração para testes
+# Criasom — teste de experiência
 
-Interface pública com dados fictícios. O projeto de desenvolvimento permanece privado.
+A interface acompanha a main privada. O conteúdo editorial completo desta edição está criptografado; o acesso é fornecido pelo link de convite entregue por Luiz ao grupo de testes. A chave não está neste repositório nem nos pedidos ao servidor. Quem recebe o link pode acessar e copiar os materiais; o convite pode ser repassado. Não é autenticação individual de alunos nem DRM.
 
-Abra https://luizcriasom.github.io/criasom-demo/ para experimentar. Não é necessário entrar no GitHub. Os registros e as conversas de exemplo ficam somente no navegador de cada pessoa. Não há login real, envio a alunos, catálogo didático ou acesso a materiais comerciais. O repertório pessoal pode ser experimentado normalmente.
+Edição do conteúdo: 371606fb7473eb8a. Cobertura: 31 módulos, 159 práticas, 448 páginas referenciadas e 9 áudios. Harmonia II e demais cursos sem práticas no piloto continuam sinalizados dessa forma; não são inventadas aulas.
 
-Use **Dar feedback** para preparar uma mensagem e colá-la no grupo de testes. Esse botão não envia dados automaticamente.
+Os registros e as conversas de teste ficam somente no navegador. Não há login real, banco de alunos, cobrança ou fórum compartilhado. O repertório pessoal está disponível; o catálogo didático separado continua fora desta distribuição.
 
-Versão da interface: b606c920f25f. Arquivos gerados a partir da versão principal do Criasom; não editar esta distribuição para desenvolver o app. A atualização automática é gerada pela main privada após verificações. Revisão de origem: 1b56fd3d592983f1d11165198f38797dab389d12. Se a verificação ou publicação falhar, a última versão válida permanece no ar.
+Versão da interface: 823bbda4a8b6. Revisão de origem: 3ec9b89a9f28193ebbc9ab38e432dfcdd7935f3d. Atualizações da main passam pelos testes antes de publicar. Conteúdo editorial novo exige importar e conferir uma nova edição protegida; arquivos locais não sincronizam sozinhos.

@@ -1,0 +1,260 @@
+{
+  "schema": "criasom-review/1",
+  "edition": "371606fb7473eb8a",
+  "contentVersion": "2026-10-18-course-guides-2",
+  "files": {
+    "chunk-000.bin": {
+      "bytes": 1968045,
+      "sha256": "5790c5f546323ed193c9f92148e109b2283d57f2cc978cbd599740069c95af92"
+    },
+    "chunk-001.bin": {
+      "bytes": 1994061,
+      "sha256": "78bb408c65523baa0ef07482e203498f384af6a2c6e86d18780af1e875df1dfb"
+    },
+    "chunk-002.bin": {
+      "bytes": 1813336,
+      "sha256": "1ac42298d64572515d0e4e8c6616d1163ab92ba1fd9f08b1fc5c30d7ee88e7d7"
+    },
+    "chunk-003.bin": {
+      "bytes": 1845475,
+      "sha256": "044a6319f4e8e48acf827e3f2ce7a895b0949d7dd2a603a1f55e2cfe90f0276a"
+    },
+    "chunk-004.bin": {
+      "bytes": 1926711,
+      "sha256": "01ed20b6801144adb65f8afc989ec194603ec63f7888906d0f6d5e9c5110af0d"
+    },
+    "chunk-005.bin": {
+      "bytes": 1961328,
+      "sha256": "5ec9f6c721bcc5eae527b5e285cf4c05c5a89a22d80cab3863144bc2192d56ba"
+    },
+    "chunk-006.bin": {
+      "bytes": 1974947,
+      "sha256": "170f85041e46f0cd5eee70a9587c5bf7b60a7416665ddee4f4246253f9dba2c0"
+    },
+    "chunk-007.bin": {
+      "bytes": 1822863,
+      "sha256": "e661e714326e0d54312d7980ac65a7c93334a121933ff1319d727cc3c97ecfac"
+    },
+    "chunk-008.bin": {
+      "bytes": 1930361,
+      "sha256": "564ce447f8eeb2d2e2144042297dce826427596c32031e8eda4e2b61aa8f63c9"
+    },
+    "chunk-009.bin": {
+      "bytes": 1834690,
+      "sha256": "2ff6becbbce62fb152acf3421704d1329f0841cfe600850ab7130e04539093da"
+    },
+    "chunk-010.bin": {
+      "bytes": 1870077,
+      "sha256": "aebd127c95c93ac621f90a23823cc1fcb564725adf98646a2250f0d9cfdf4d11"
+    },
+    "chunk-011.bin": {
+      "bytes": 1228965,
+      "sha256": "0b740f824d040ae6dba98e69ee09b18f04de3f7da71cc25aa6b33d06ea23210c"
+    },
+    "chunk-012.bin": {
+      "bytes": 1841907,
+      "sha256": "512e30e1b09c03b4a4ddc6e96c3c13ad1006b3b99a31d16f839d6e9b11802538"
+    },
+    "chunk-013.bin": {
+      "bytes": 1949651,
+      "sha256": "18b66774361b864717924e954a485528fd7461102fdb21d5130bcfb310475256"
+    },
+    "chunk-014.bin": {
+      "bytes": 1620351,
+      "sha256": "86f209dc16160966119fd3de3db38db2ea757ebb61dfa280579578b4c2a203dc"
+    },
+    "chunk-015.bin": {
+      "bytes": 1998091,
+      "sha256": "f5fed6057ff6b54e8fff2ce2e8638aa7c14ac99ef86ad8ce39d53005f8e79ab6"
+    },
+    "chunk-016.bin": {
+      "bytes": 1833766,
+      "sha256": "86ecdcb926abf2d5eb0a9dd5ef7ab1c1958576ca1fd18a62807a2c1aaed64717"
+    },
+    "chunk-017.bin": {
+      "bytes": 1846361,
+      "sha256": "6bb8c7638565262b0529838437f62dc0a5c904871c39aa3d5e86a24abfa2007b"
+    },
+    "chunk-018.bin": {
+      "bytes": 1989219,
+      "sha256": "44cef9d82bfb99f69677e06955e73c2ab7fd69402ba8f385118a8d656104f7c4"
+    },
+    "chunk-019.bin": {
+      "bytes": 1851932,
+      "sha256": "f61648dd12c98c18c8fc91694f883a46ef0ca7fe8831852facd150a89dcf9f97"
+    },
+    "chunk-020.bin": {
+      "bytes": 1892056,
+      "sha256": "ced7a6f0b6202cbb387ea83fb73f574d1e00f695270655d62f2ba1a62394892d"
+    },
+    "chunk-021.bin": {
+      "bytes": 1982741,
+      "sha256": "c06f36e8dbaaf3642eeab71a596f6e86d575fe78547b2ce7dc1a9800d41f3b22"
+    },
+    "chunk-022.bin": {
+      "bytes": 1922827,
+      "sha256": "57844f7806200237919b002e3da343a5de1a30cb0a0be099fdf4d1af8a0849cf"
+    },
+    "chunk-023.bin": {
+      "bytes": 1978351,
+      "sha256": "97e6c49cbff2f9feda50b8c7a0972b2a06e52938d7e92fb9fad9d1adef8dc0b4"
+    },
+    "chunk-024.bin": {
+      "bytes": 1855687,
+      "sha256": "22040377f234ede6df5081056d1fc617dbd64df76173340955e5570fa5b3f4fa"
+    },
+    "chunk-025.bin": {
+      "bytes": 1896341,
+      "sha256": "3a4915e0ab0990aed8fa13fff8791366652e18f0e9ab2138b87ff2f4b8b42837"
+    },
+    "chunk-026.bin": {
+      "bytes": 1989246,
+      "sha256": "3bd5988c0159ba826f20ac85cf19381ff8483fca69bfed904604ca67a1f1c1b6"
+    },
+    "chunk-027.bin": {
+      "bytes": 1891889,
+      "sha256": "9cd55fd37ce0704f7c8c3f2dbc8bb64755752875cb512c520977c36d7b488efa"
+    },
+    "chunk-028.bin": {
+      "bytes": 1851021,
+      "sha256": "240daa86a5d52e6f3294d3d08492a73261cc35544dbac87ce5b0ed22b335891e"
+    },
+    "chunk-029.bin": {
+      "bytes": 1992744,
+      "sha256": "1cbfec374b0cb9ea5950707b42e26d2b90576efc27ff800213379a05e603c94e"
+    },
+    "chunk-030.bin": {
+      "bytes": 1758011,
+      "sha256": "4657edcfd8b2ee315e00aeb791ee6f88d0be1148831763ce590592ba171d4b8d"
+    },
+    "chunk-031.bin": {
+      "bytes": 1920760,
+      "sha256": "785426919c0a1017f6184eade9e387f9649bdc69f01f77fb3c1552322358eb7e"
+    },
+    "chunk-032.bin": {
+      "bytes": 1894735,
+      "sha256": "705e4971f8ecf12ce93c6d203debf15bc1a979e0dafc706f787de004f0cd3c8b"
+    },
+    "chunk-033.bin": {
+      "bytes": 1842492,
+      "sha256": "edeb409d4b3eac13355e8ffc616099071e50a87bef6b59e714e047b7c44aec47"
+    },
+    "chunk-034.bin": {
+      "bytes": 1818361,
+      "sha256": "62b55fdb41aa8ca17d6fcf2b1137f31eeac9e0f49b0e23cfb3afca35c4195571"
+    },
+    "chunk-035.bin": {
+      "bytes": 1937848,
+      "sha256": "c5b93c187162877c156b7e9a84cb9f327dc92b07349a1f88f37c50b0c4cadcd4"
+    },
+    "chunk-036.bin": {
+      "bytes": 1958991,
+      "sha256": "df5d497fb85d02f20f6c8117a26ab767751a8ff88474d1503feb7e0015b4a630"
+    },
+    "chunk-037.bin": {
+      "bytes": 1727957,
+      "sha256": "55b7c83b8d7fcef59959c05f50c92fe63e85201d570dd1275ed88365055c994f"
+    },
+    "chunk-038.bin": {
+      "bytes": 667066,
+      "sha256": "2625f4dc49a9ac04a40e344c679201ef7c7878967836f61ac86aecdea32f6c07"
+    },
+    "chunk-039.bin": {
+      "bytes": 5390178,
+      "sha256": "d132f5bac93ee3884921558f09713827e1f1f9ceef6ed65cade2341988077601"
+    },
+    "chunk-040.bin": {
+      "bytes": 2921606,
+      "sha256": "d633650a77d766e95560b7a9f72631979b9ac9afdeedaaef8f7d964282a5a12c"
+    },
+    "chunk-041.bin": {
+      "bytes": 2473345,
+      "sha256": "86d9230d72e82c0005bf205df97131caca67fa469dffbfa8c1cc614fecd9ac8a"
+    },
+    "chunk-042.bin": {
+      "bytes": 2473345,
+      "sha256": "717b7a8bfca58a1fff8fbd03ceffc142736807b3e8052e18db1dd0f2b3442db7"
+    },
+    "chunk-043.bin": {
+      "bytes": 1998112,
+      "sha256": "48c706c61218b094a25ea0a4d93cdbd0d9f834f63d47895bbde795edc5d0f78c"
+    },
+    "chunk-044.bin": {
+      "bytes": 1847640,
+      "sha256": "496118ca3d85cb3b6e29f35a5ffd5f86946126e73fefcc02b0a52dc3c1310d5b"
+    },
+    "chunk-045.bin": {
+      "bytes": 1879551,
+      "sha256": "3003d9a7b1c04b2a105eeeb98e28a9b58b5487486fd3abebf575452507b41ff3"
+    },
+    "chunk-046.bin": {
+      "bytes": 1922685,
+      "sha256": "5f76ddfcff48f9af05243202f521ca89b1e5e6b4593d5419611f0dea29224cc2"
+    },
+    "chunk-047.bin": {
+      "bytes": 779613,
+      "sha256": "bc29c3ed30db33f9b4d0d638144321d06cf51dbc657ac249c4027120dd640ea6"
+    },
+    "chunk-048.bin": {
+      "bytes": 3325133,
+      "sha256": "540cc31c19729012ed3bb2a23bb323b5271e8e8192caa0370c13c2c62339c552"
+    },
+    "chunk-049.bin": {
+      "bytes": 7460317,
+      "sha256": "ee2cf8c5c66f5e63e4ec8a00da55738f8639219518efe9dfa2fe61af9f39a853"
+    },
+    "chunk-050.bin": {
+      "bytes": 1873663,
+      "sha256": "d8d7313fa7de566a64a3a3309241302b6e77739da9c2a8ab55057a908bcadc60"
+    },
+    "chunk-051.bin": {
+      "bytes": 1131643,
+      "sha256": "255736bc906eb7bc404220668381569ea9fa021262c0858f10ad005d4e6a85ab"
+    },
+    "chunk-052.bin": {
+      "bytes": 3994194,
+      "sha256": "0b7ce9ab955e6b4386cc38aa8dce2049416265ae631c249042204ac490f8cea5"
+    },
+    "chunk-053.bin": {
+      "bytes": 4841606,
+      "sha256": "603e7f7a558f314afb24e4ff7eb5c4ba9cad347b8f8f5170ce5cad6f92529a53"
+    },
+    "chunk-054.bin": {
+      "bytes": 1955598,
+      "sha256": "b09825e1bd88afc557870e895506c4c38e1fb8153e6dee35edc40e7b604569af"
+    },
+    "chunk-055.bin": {
+      "bytes": 1974791,
+      "sha256": "9a91abd32da6d66cc89387b28543764df473a4cc1c60756a4139e9abf166b92a"
+    },
+    "chunk-056.bin": {
+      "bytes": 1935945,
+      "sha256": "6215ab6913f48d6405b4b357e06a815ca967cc945f0fd9687a5513ec41c761bb"
+    },
+    "chunk-057.bin": {
+      "bytes": 213229,
+      "sha256": "5703047150dccfe8d802888fd33e3df923c13acfa912f3ad198a3e045b55bfc9"
+    },
+    "chunk-058.bin": {
+      "bytes": 4529703,
+      "sha256": "b1dfb9087c3570890cd29fc6bea579d9cf04e6fa83425ea8da55c86cb546a0ba"
+    },
+    "catalog.bin": {
+      "bytes": 561730,
+      "sha256": "21e06072977c546da662c47bfb9d0b74a5a591101810d0dbd6b6f4c2552e0e90"
+    }
+  },
+  "coverage": {
+    "modules": 31,
+    "practices": 159,
+    "pages": 448,
+    "images": 459,
+    "audio": 9,
+    "courses": [
+      "penta",
+      "harmonia",
+      "licks",
+      "ritmo"
+    ]
+  }
+}

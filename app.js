@@ -1,6 +1,6 @@
-import {createStore, STORAGE_KEY, makeId, planSession, rescheduleSession, deleteSession, startPractice, updatePractice, completePractice, resumePractice, sessionTiming, startStudyClock, setStudyClockMinutes, totalPracticeSeconds, STUDY_AREAS, STUDY_LABELS, safeMusicLink, saveRepertoireSong, removeRepertoireSong, labelRepertoireSong, planPersonalSession, patchStudyTask, checkStudyTask, taskIsChecked, moveStudyTask, validateState, markIntroduction, freshStudy, restoreStudy, saveStudyProfile, studySuggestions} from './model.js?v=b606c920f25f';
+import {createStore, STORAGE_KEY, makeId, planSession, rescheduleSession, deleteSession, startPractice, updatePractice, completePractice, resumePractice, sessionTiming, startStudyClock, setStudyClockMinutes, totalPracticeSeconds, STUDY_AREAS, STUDY_LABELS, safeMusicLink, saveRepertoireSong, removeRepertoireSong, labelRepertoireSong, planPersonalSession, patchStudyTask, checkStudyTask, taskIsChecked, moveStudyTask, validateState, markIntroduction, freshStudy, restoreStudy, saveStudyProfile, studySuggestions} from './model.js?v=823bbda4a8b6';
 
-const data = window.CRIASOM_DATA || await fetch('data.json?v=b606c920f25f').then(r=>{if(!r.ok)throw Error('Conteúdo indisponível');return r.json()});
+const data = window.CRIASOM_DATA || await fetch('data.json?v=823bbda4a8b6').then(r=>{if(!r.ok)throw Error('Conteúdo indisponível');return r.json()});
 const account=window.CRIASOM_ACCOUNT||null;
 const store=account?.store||createStore();
 let state, persisted=true, route='hoje', moduleId='dap:modulo:03', minutes=10, runId=null, weekOffset=0, tool=null, bpm=60;
@@ -9,7 +9,7 @@ let audioCtx=null, metroInterval=null, nextBeat=0, beat=0, metroRunning=false;
 let selectedBookPage=15, bookPages=[], bookZoom=100, lastFocused=null, toastTimeout;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const asset=p=>window.CRIASOM_ASSETS?.[p]||p;
+const asset=p=>window.CRIASOM_ASSETS?.[p]||window.CRIASOM_ASSET?.(p)||p;
 const mod=id=>id==='personal'?personalModule():data.modules.find(m=>m.id===id);
 const allowedModule=id=>id==='personal'?(!account||account.has('app')):!!mod(id)&&(!account||account.has('course:'+mod(id).courseId));
 const availableModules=()=>data.modules.filter(m=>allowedModule(m.id));
